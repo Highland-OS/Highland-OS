@@ -4,5 +4,5 @@
 
 > More to be added
 
-## Active Contributor(s)
+## Contributor(s)
 - [x] Tr1angular
