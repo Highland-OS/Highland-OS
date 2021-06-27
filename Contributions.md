@@ -9,6 +9,6 @@ Simple steps for an acceptable contribution:
 
 Done!
 
-> NOTICE: Please wait ~24 hours if you DO NOT live in the UTC−05:00 time zone
+> NOTICE: Please wait a few hours if you DO NOT live in the UTC−05:00 time zone. Thanks!
 
 
