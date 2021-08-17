@@ -8,7 +8,7 @@
 [Contributors](https://github.com/Highland-OS/Highland-OS#contributors)
 
 ## About
-Highland is a custom-made operating system 18 days in the making!
+Highland is a custom-made operating system 59 days in the making!
 
 Contributions are welcome.
 
