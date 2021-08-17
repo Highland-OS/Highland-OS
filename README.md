@@ -14,5 +14,6 @@ Contributions are welcome.
 
 ## Contributor(s)
 - [x] Tr1angular
+- [x] X-Developer-Studios
 
 > Want to join? View the [joining guidelines](https://github.com/Highland-OS/Highland-OS/blob/main/joining_guide.md) to find out how!
