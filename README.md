@@ -13,7 +13,6 @@ Highland is a custom-made operating system 59 days in the making!
 Contributions are welcome.
 
 ## Contributor(s)
-- [x] Tr1angular
-- [x] X-Developer-Studios
+- [x] IronCodem
 
 > Want to join? View the [joining guidelines](https://github.com/Highland-OS/Highland-OS/blob/main/joining_guide.md) to find out how!
